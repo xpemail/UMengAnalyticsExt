@@ -5,7 +5,8 @@ Pod::Spec.new do |s|
   s.name         = "UMengAnalyticsExt"
   s.version      = "1.0.0"
   s.summary      = "简化友盟更新提醒方法"
- 
+
+    s.author             = { "yangjunhai" => "junhaiyang@gmail.com" }
   s.homepage     = "https://github.com/xpemail/UMengAnalyticsExt"
  
   s.license      = "MIT"
